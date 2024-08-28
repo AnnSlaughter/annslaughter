@@ -127,11 +127,3 @@ Collaborated with the Chief Security Officer on cybersecurity initiatives to ach
 Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
 
 ---
-
-### **MVP Launched**  
-This repository showcases branding and product images, including:  
-- AutoPilot Office  
-- Flip That Ugly House  
-- APO - Repeatable Results, Repeatable Success
-
----
