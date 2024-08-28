@@ -46,57 +46,57 @@ In today's fast-paced product development environment, **value** is the key driv
 
 ## **Professional Certifications**
 
-- 🏆 Certified Product Manager (Agile)  
-- 🏆 Certified Scrum Master (CSM)  
-- 🏆 Web Designer: UI/UX, SEO  
-- 🏆 IDEO Design Thinking  
-- 🏆 Pragmatic Marketing Training – John Milburn, former Pragmatic trainer  
-- 🏆 Pragmatic Marketing Framework/Pragmatic Institute: Webinars and Podcasts
+🏆 Certified Product Manager (Agile)  
+🏆 Certified Scrum Master (CSM)  
+🏆 Web Designer: UI/UX, SEO  
+🏆 IDEO Design Thinking  
+🏆 Pragmatic Marketing Training – John Milburn, former Pragmatic trainer  
+🏆 Pragmatic Marketing Framework/Pragmatic Institute: Webinars and Podcasts
 
 ---
 
 ## **Key Skills & Tools**
 
 ### **Leadership & Strategy**
-- 💡 Proven Leadership  
-- 💡 Product Development  
-- 💡 Marketing Strategy  
-- 💡 Digital & Technology Strategy  
-- 💡 Process Engineering  
-- 💡 Human-Centered Design  
-- 💡 IDEO Design Thinking  
-- 💡 B2B/B2C Product Management  
-- 💡 Financial Services & Healthcare Insurance  
-- 💡 Product Roadmapping & Marketing Campaigns  
-- 💡 Journey Mapping & User Experience  
-- 💡 Competitive Analysis & Research/Testing  
-- 💡 Cross-functional & Virtual Team Collaboration  
-- 💡 Data Analytics & Data-Driven Decisions  
-- 💡 Innovation & Influence  
-- 💡 Presenting Complex Technology Concepts  
-- 💡 Entrepreneurial Spirit
+💡 Proven Leadership  
+💡 Product Development  
+💡 Marketing Strategy  
+💡 Digital & Technology Strategy  
+💡 Process Engineering  
+💡 Human-Centered Design  
+💡 IDEO Design Thinking  
+💡 B2B/B2C Product Management  
+💡 Financial Services & Healthcare Insurance  
+💡 Product Roadmapping & Marketing Campaigns  
+💡 Journey Mapping & User Experience  
+💡 Competitive Analysis & Research/Testing  
+💡 Cross-functional & Virtual Team Collaboration  
+💡 Data Analytics & Data-Driven Decisions  
+💡 Innovation & Influence  
+💡 Presenting Complex Technology Concepts  
+💡 Entrepreneurial Spirit
 
 ### **Technical Skills**
-- 💻 Technical Writing & Application Development  
-- 💻 API & Cloud Computing  
-- 💻 Artificial Intelligence (AI) & Cyber Security  
-- 💻 Business Process Management & Collaboration  
-- 💻 Product Ownership & Agile Mindset  
-- 💻 Scaled Agile – SAFe, DevOps, DevSecOps  
-- 💻 User Stories, 508 Compliance & CI/CD  
-- 💻 Security Clearance - Public Trust Background  
-- 💻 SDLC, Figma & Fintech  
-- 💻 HTML, CSS & JavaScript
+💻 Technical Writing & Application Development  
+💻 API & Cloud Computing  
+💻 Artificial Intelligence (AI) & Cyber Security  
+💻 Business Process Management & Collaboration  
+💻 Product Ownership & Agile Mindset  
+💻 Scaled Agile – SAFe, DevOps, DevSecOps  
+💻 User Stories, 508 Compliance & CI/CD  
+💻 Security Clearance - Public Trust Background  
+💻 SDLC, Figma & Fintech  
+💻 HTML, CSS & JavaScript
 
 ### **Additional Expertise**
-- 🛡️ FedRamp & HITRUST Certification (Cybersecurity)  
-- 🛡️ Security Review Assessments (SRAs) & Vendor Security Evaluations  
-- 🛡️ OSI Model & Emerging Technologies (AI/ML, Robotics, IoT)  
-- 🛡️ Product Management, Scrum Master, UI/UX, IDEO Design Thinking  
-- 🛡️ Writing & Managing Epics/User Stories in Agile Environments  
-- 🛡️ User Acceptance Testing, QA Responsibilities & Jira/Confluence  
-- 🛡️ API, Zapier, Make, Figma, ChatGPT, Adobe FrameMaker  
-- 🛡️ Security Clearance & Federal Experience
+🛡️ FedRamp & HITRUST Certification (Cybersecurity)  
+🛡️ Security Review Assessments (SRAs) & Vendor Security Evaluations  
+🛡️ OSI Model & Emerging Technologies (AI/ML, Robotics, IoT)  
+🛡️ Product Management, Scrum Master, UI/UX, IDEO Design Thinking  
+🛡️ Writing & Managing Epics/User Stories in Agile Environments  
+🛡️ User Acceptance Testing, QA Responsibilities & Jira/Confluence  
+🛡️ API, Zapier, Make, Figma, ChatGPT, Adobe FrameMaker  
+🛡️ Security Clearance & Federal Experience
 
 ---
 
@@ -134,13 +134,3 @@ This repository showcases branding and product images, including:
 - APO - Repeatable Results, Repeatable Success
 
 ---
-
-## **Professional Certifications**
-
-- **AWS Cloud Solutions Architect** (Amazon Web Services)  
-- **AWS Cloud Technology Consultant** (Amazon Web Services)  
-- **Google Data Analytics** (Google)  
-- **Google Cybersecurity** (Google)  
-- **Google IT Automation with Python** (Google)  
-- **Six Sigma Yellow Belt**  
-- **Six Sigma Green Belt**
