@@ -103,11 +103,12 @@ In today's fast-paced product development environment, **value** is the key driv
 ## **Professional Portfolio**
 
 🎥 **Video Walkthroughs**:  
-- Writing Samples  
-- Customer Testimonials  
-- Teaching Classes  
-- Product Road Maps  
-- Metrics That Matter
+- [**Writing Samples**](https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4)
+- [**Customer Testimonials**](https://youtu.be/YxXAlzNJZxU)  
+- [**Product Road Map**](https://youtu.be/O1zwmcTxSDM)  
+- [**Wireframe of Mobile App**](https://youtu.be/KXp_apnY4mA)  
+- [**Training Teams**](https://youtu.be/jpEVIDQjqOU)  
+- [**Metrics That Matter**](https://youtu.be/lv761YSpwMc)
 
 ---
 
