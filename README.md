@@ -1,10 +1,10 @@
 # Ann Slaughter
 
-# 📞 **Phone:** 813-285-2434  
-# 📧 **Email:** AnnSlaughter2009@Gmail.com  
-# 📍 **Location:** Tampa, FL 33624  
-# 🌐 [**LinkedIn**](https://www.linkedin.com/in/annslaughter/) | [**GitHub**](https://github.com/AnnSlaughter2009)  
-# 🇺🇸 **US Citizen Seeking:** Remote roles from Tampa, FL
+📞 **Phone:** 813-285-2434  
+📧 **Email:** AnnSlaughter2009@Gmail.com  
+📍 **Location:** Tampa, FL 33624  
+🌐 [**LinkedIn**](https://www.linkedin.com/in/annslaughter/) | [**GitHub**](https://github.com/AnnSlaughter2009)  
+   **US Citizen Seeking:** Remote roles from Tampa, FL
 
 ---
 
