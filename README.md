@@ -23,7 +23,7 @@ I am a results-driven professional with a deep understanding of leveraging data 
 
 ## MY PHILOSOPHY
 
-My Philosophy: The buzz word in product development is “value”. What stakeholders want is not a wish list of features. Everything must “drive value”. Whatever the product goals are (more users, efficiency, revenue), we prioritize based on these things. Think of your own business initiatives. To build anything costs money. You want your investment (costs of dev team) to be applied to features and functionality that will give you the biggest bang for the buck - and not $200k spent on a team building unimportant things that don’t move the needle. KPIs are success metrics on any product or project. Stakeholders’ requests should map to these. This is also one way to weed out bad requests.
+**My Philosophy**: The buzz word in product development is “value”. What stakeholders want is not a wish list of features. Everything must “drive value”. Whatever the product goals are (more users, efficiency, revenue), we prioritize based on these things. Think of your own business initiatives. To build anything costs money. You want your investment (costs of dev team) to be applied to features and functionality that will give you the biggest bang for the buck - and not $200k spent on a team building unimportant things that don’t move the needle. KPIs are success metrics on any product or project. Stakeholders’ requests should map to these. This is also one way to weed out bad requests.
 
 ---
 
@@ -114,12 +114,12 @@ My Philosophy: The buzz word in product development is “value”. What stakeho
 ## KEY PROJECTS
 
 - **GOOGLE CLOUD – LEGACY TO CLOUD-BASED CONVERSION**
-Led the transition from legacy systems to cloud-based solutions, streamlining processes and enhancing operational efficiency.
+:Led the transition from legacy systems to cloud-based solutions, streamlining processes and enhancing operational efficiency.
 - **FISERV – DIGITAL GATEWAY/PAYMENT PROCESSING**
-Developed a digital gateway/payment processing solution supporting various client-hosted engagement channels, including online and mobile portals.
+:Developed a digital gateway/payment processing solution supporting various client-hosted engagement channels, including online and mobile portals.
 - **CYBERSECURITY – HITRUST & FEDRAMP CERTIFICATIONS**
-Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications, reinforcing organizational security.
+:Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications, reinforcing organizational security.
 - **IT STARTUP – MVP LAUNCH**
-Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
+:Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
 
 ---
