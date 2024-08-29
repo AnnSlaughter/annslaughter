@@ -101,8 +101,7 @@ I am a results-driven professional with a deep understanding of leveraging data 
 
 ## PROFESSIONAL PORTFOLIO
 
-**Video Walkthroughs**:  
-- [**Writing Samples**](https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4)  
+- [**Writing Samples**](https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4) Writing Samples 
 - [**Customer Testimonials**](https://youtu.be/YxXAlzNJZxU)  
 - [**Product Road Map**](https://youtu.be/O1zwmcTxSDM)  
 - [**Wireframe of Mobile App**](https://youtu.be/KXp_apnY4mA)  
@@ -114,12 +113,12 @@ I am a results-driven professional with a deep understanding of leveraging data 
 ## KEY PROJECTS
 
 - **GOOGLE CLOUD – LEGACY TO CLOUD-BASED CONVERSION**
-:Led the transition from legacy systems to cloud-based solutions, streamlining processes and enhancing operational efficiency.
+: Led the transition from legacy systems to cloud-based solutions, streamlining processes and enhancing operational efficiency.
 - **FISERV – DIGITAL GATEWAY/PAYMENT PROCESSING**
-:Developed a digital gateway/payment processing solution supporting various client-hosted engagement channels, including online and mobile portals.
+: Developed a digital gateway/payment processing solution supporting various client-hosted engagement channels, including online and mobile portals.
 - **CYBERSECURITY – HITRUST & FEDRAMP CERTIFICATIONS**
-:Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications, reinforcing organizational security.
+: Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications, reinforcing organizational security.
 - **IT STARTUP – MVP LAUNCH**
-:Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
+: Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
 
 ---
