@@ -101,12 +101,12 @@ I am a results-driven professional with a deep understanding of leveraging data 
 
 ## PROFESSIONAL PORTFOLIO
 
-- [**Writing Samples**](https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4) Writing Samples 
-- [**Customer Testimonials**](https://youtu.be/YxXAlzNJZxU)  
-- [**Product Road Map**](https://youtu.be/O1zwmcTxSDM)  
-- [**Wireframe of Mobile App**](https://youtu.be/KXp_apnY4mA)  
-- [**Training Teams**](https://youtu.be/jpEVIDQjqOU)  
-- [**Metrics That Matter**](https://youtu.be/lv761YSpwMc)
+- [**Video**](https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4) Walk through of writing samples 
+- [**Video**](https://youtu.be/YxXAlzNJZxU)  Customer Testimonials
+- [**Video**](https://youtu.be/O1zwmcTxSDM)  Product Road Map
+- [**Video**](https://youtu.be/KXp_apnY4mA)  Wireframe of Mobile App
+- [**Video**](https://youtu.be/jpEVIDQjqOU)  Training Teams
+- [**Video**](https://youtu.be/lv761YSpwMc)  Metrics That Matter
 
 ---
 
