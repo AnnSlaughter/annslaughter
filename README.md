@@ -3,9 +3,8 @@
 **Phone:** 813-285-2434  
 **Email:** AnnSlaughter2009@Gmail.com  
 **Location:** Tampa, FL 33624  
-**US Citizen Seeking:** Remote roles from Tampa, FL
-</br>
-[**LinkedIn**](https://www.linkedin.com/in/annslaughter/) | [**GitHub**](https://github.com/AnnSlaughter2009)  
+**US Citizen Seeking:** Remote roles from Tampa, FL  
+[**LinkedIn**](https://www.linkedin.com/in/annslaughter/) | [**GitHub**](https://github.com/AnnSlaughter2009)
 
 ---
 
@@ -46,64 +45,64 @@ In today's fast-paced product development environment, **value** is the key driv
 
 ## **Professional Certifications**
 
-Certified Product Manager (Agile)  
-Certified Scrum Master (CSM)  
-Web Designer: UI/UX, SEO  
-IDEO Design Thinking  
-Pragmatic Marketing Training – John Milburn, former Pragmatic trainer  
-Pragmatic Marketing Framework/Pragmatic Institute: Webinars and Podcasts
+- Certified Product Manager (Agile)  
+- Certified Scrum Master (CSM)  
+- Web Designer: UI/UX, SEO  
+- IDEO Design Thinking  
+- Pragmatic Marketing Training – John Milburn, former Pragmatic trainer  
+- Pragmatic Marketing Framework/Pragmatic Institute: Webinars and Podcasts
 
 ---
 
 ## **Key Skills & Tools**
 
 ### **Leadership & Strategy**
-Proven Leadership  
-Product Development  
-Marketing Strategy  
-Digital & Technology Strategy  
-Process Engineering  
-Human-Centered Design  
-IDEO Design Thinking  
-B2B/B2C Product Management  
-Financial Services & Healthcare Insurance  
-Product Roadmapping & Marketing Campaigns  
-Journey Mapping & User Experience  
-Competitive Analysis & Research/Testing  
-Cross-functional & Virtual Team Collaboration  
-Data Analytics & Data-Driven Decisions  
-Innovation & Influence  
-Presenting Complex Technology Concepts  
-Entrepreneurial Spirit
+- Proven Leadership  
+- Product Development  
+- Marketing Strategy  
+- Digital & Technology Strategy  
+- Process Engineering  
+- Human-Centered Design  
+- IDEO Design Thinking  
+- B2B/B2C Product Management  
+- Financial Services & Healthcare Insurance  
+- Product Roadmapping & Marketing Campaigns  
+- Journey Mapping & User Experience  
+- Competitive Analysis & Research/Testing  
+- Cross-functional & Virtual Team Collaboration  
+- Data Analytics & Data-Driven Decisions  
+- Innovation & Influence  
+- Presenting Complex Technology Concepts  
+- Entrepreneurial Spirit
 
 ### **Technical Skills**
-Technical Writing & Application Development  
-API & Cloud Computing  
-Artificial Intelligence (AI) & Cyber Security  
-Business Process Management & Collaboration  
-Product Ownership & Agile Mindset  
-Scaled Agile – SAFe, DevOps, DevSecOps  
-User Stories, 508 Compliance & CI/CD  
-Security Clearance - Public Trust Background  
-SDLC, Figma & Fintech  
-HTML, CSS & JavaScript
+- Technical Writing & Application Development  
+- API & Cloud Computing  
+- Artificial Intelligence (AI) & Cyber Security  
+- Business Process Management & Collaboration  
+- Product Ownership & Agile Mindset  
+- Scaled Agile – SAFe, DevOps, DevSecOps  
+- User Stories, 508 Compliance & CI/CD  
+- Security Clearance - Public Trust Background  
+- SDLC, Figma & Fintech  
+- HTML, CSS & JavaScript
 
 ### **Additional Expertise**
-FedRamp & HITRUST Certification (Cybersecurity)  
-Security Review Assessments (SRAs) & Vendor Security Evaluations  
-OSI Model & Emerging Technologies (AI/ML, Robotics, IoT)  
-Product Management, Scrum Master, UI/UX, IDEO Design Thinking  
-Writing & Managing Epics/User Stories in Agile Environments  
-User Acceptance Testing, QA Responsibilities & Jira/Confluence  
-API, Zapier, Make, Figma, ChatGPT, Adobe FrameMaker  
-Security Clearance & Federal Experience
+- FedRamp & HITRUST Certification (Cybersecurity)  
+- Security Review Assessments (SRAs) & Vendor Security Evaluations  
+- OSI Model & Emerging Technologies (AI/ML, Robotics, IoT)  
+- Product Management, Scrum Master, UI/UX, IDEO Design Thinking  
+- Writing & Managing Epics/User Stories in Agile Environments  
+- User Acceptance Testing, QA Responsibilities & Jira/Confluence  
+- API, Zapier, Make, Figma, ChatGPT, Adobe FrameMaker  
+- Security Clearance & Federal Experience
 
 ---
 
 ## **Professional Portfolio**
 
 **Video Walkthroughs**:  
-- [**Writing Samples**](https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4)
+- [**Writing Samples**](https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4)  
 - [**Customer Testimonials**](https://youtu.be/YxXAlzNJZxU)  
 - [**Product Road Map**](https://youtu.be/O1zwmcTxSDM)  
 - [**Wireframe of Mobile App**](https://youtu.be/KXp_apnY4mA)  
@@ -115,15 +114,15 @@ Security Clearance & Federal Experience
 ## **Key Projects**
 
 ### **Google Cloud – Legacy to Cloud-Based Conversion**
-Led the transition from legacy systems to cloud-based solutions, streamlining processes and enhancing operational efficiency.
+- Led the transition from legacy systems to cloud-based solutions, streamlining processes and enhancing operational efficiency.
 
 ### **Fiserv – Digital Gateway/Payment Processing**
-Developed a digital gateway/payment processing solution supporting various client-hosted engagement channels, including online and mobile portals.
+- Developed a digital gateway/payment processing solution supporting various client-hosted engagement channels, including online and mobile portals.
 
 ### **Cybersecurity – HITRUST & FedRamp Certifications**
-Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications, reinforcing organizational security.
+- Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications, reinforcing organizational security.
 
 ### **IT Startup – MVP Launch**
-Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
+- Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
 
 ---
