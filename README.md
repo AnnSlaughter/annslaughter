@@ -54,48 +54,27 @@ I am a results-driven professional with a deep understanding of leveraging data 
 
 ---
 
-## KEY SKILLS & TOOLS
+## Key Skills & Tools
 
-### LEADERSHIP & STRATEGY
-- Proven Leadership  
-- Product Development  
-- Marketing Strategy  
-- Digital & Technology Strategy  
-- Process Engineering  
-- Human-Centered Design  
-- IDEO Design Thinking  
-- B2B/B2C Product Management  
-- Financial Services & Healthcare Insurance  
-- Product Roadmapping & Marketing Campaigns  
-- Journey Mapping & User Experience  
-- Competitive Analysis & Research/Testing  
-- Cross-functional & Virtual Team Collaboration  
-- Data Analytics & Data-Driven Decisions  
-- Innovation & Influence  
-- Presenting Complex Technology Concepts  
-- Entrepreneurial Spirit
-
-### TECHNICAL SKILLS
-- Technical Writing & Application Development  
-- API & Cloud Computing  
-- Artificial Intelligence (AI) & Cyber Security  
-- Business Process Management & Collaboration  
-- Product Ownership & Agile Mindset  
-- Scaled Agile – SAFe, DevOps, DevSecOps  
-- User Stories, 508 Compliance & CI/CD  
-- Security Clearance - Public Trust Background  
-- SDLC, Figma & Fintech  
-- HTML, CSS & JavaScript
-
-### ADDITIONAL EXPERTISE
-- FedRamp & HITRUST Certification (Cybersecurity)  
-- Security Review Assessments (SRAs) & Vendor Security Evaluations  
-- OSI Model & Emerging Technologies (AI/ML, Robotics, IoT)  
-- Product Management, Scrum Master, UI/UX, IDEO Design Thinking  
-- Writing & Managing Epics/User Stories in Agile Environments  
-- User Acceptance Testing, QA Responsibilities & Jira/Confluence  
-- API, Zapier, Make, Figma, ChatGPT, Adobe FrameMaker  
-- Security Clearance & Federal Experience
+| **Leadership & Strategy**                                | **Technical Skills**                                     | **Additional Expertise**                                   |
+|----------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------|
+| Proven Leadership                                        | Technical Writing & Application Development              | FedRamp & HITRUST Certification (Cybersecurity)            |
+| Product Development                                      | API & Cloud Computing                                    | Security Review Assessments (SRAs) & Vendor Security Evaluations |
+| Marketing Strategy                                       | Artificial Intelligence (AI) & Cyber Security            | OSI Model & Emerging Technologies (AI/ML, Robotics, IoT)   |
+| Digital & Technology Strategy                            | Business Process Management & Collaboration              | Product Management, Scrum Master, UI/UX, IDEO Design Thinking |
+| Process Engineering                                      | Product Ownership & Agile Mindset                        | Writing & Managing Epics/User Stories in Agile Environments |
+| Human-Centered Design                                    | Scaled Agile – SAFe, DevOps, DevSecOps                   | User Acceptance Testing, QA Responsibilities & Jira/Confluence |
+| IDEO Design Thinking                                     | User Stories, 508 Compliance & CI/CD                     | API, Zapier, Make, Figma, ChatGPT, Adobe FrameMaker        |
+| B2B/B2C Product Management                               | Security Clearance - Public Trust Background             | Security Clearance & Federal Experience                    |
+| Financial Services & Healthcare Insurance               | SDLC, Figma & Fintech                                    |                                                            |
+| Product Roadmapping & Marketing Campaigns                | HTML, CSS & JavaScript                                   |                                                            |
+| Journey Mapping & User Experience                        |                                                          |                                                            |
+| Competitive Analysis & Research/Testing                  |                                                          |                                                            |
+| Cross-functional & Virtual Team Collaboration            |                                                          |                                                            |
+| Data Analytics & Data-Driven Decisions                   |                                                          |                                                            |
+| Innovation & Influence                                   |                                                          |                                                            |
+| Presenting Complex Technology Concepts                   |                                                          |                                                            |
+| Entrepreneurial Spirit                                   |                                                          |                                                            |
 
 ---
 
