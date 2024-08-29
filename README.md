@@ -1,4 +1,4 @@
-# Ann Slaughter
+# ANN SLAUGHTER
 
 **Phone:** 813-285-2434  
 **Email:** AnnSlaughter2009@Gmail.com  
@@ -8,33 +8,33 @@
 
 ---
 
-## **Technical Writer | Agile Product Owner**
+## TECHNICAL WRITER | AGILE PRODUCT OWNER
 
 **Type:** Part-time | Full-time | Corp-to-Corp | W-2  
 **Relocation:** No
 
 ---
 
-## **Summary**
+## SUMMARY
 
 I am a results-driven professional with a deep understanding of leveraging data to drive business decisions and optimize product lifecycle activities. My expertise spans setting product strategy, prioritizing customer needs, and effectively communicating the product vision. I excel in translating strategic goals into actionable roadmaps, fostering cross-functional collaboration to ensure alignment and success across all teams.
 
 ---
 
-## **My Philosophy**
+## MY PHILOSOPHY
 
-In today's fast-paced product development environment, **value** is the key driver. Stakeholders are not just seeking a list of features; they want investments that deliver measurable returns. Whether the goal is increasing users, enhancing efficiency, or boosting revenue, every decision must be value-driven. My approach is to ensure that every dollar spent contributes to meaningful progress, avoiding wasteful expenditures on low-impact initiatives. Key Performance Indicators (KPIs) are central to this process, serving as the benchmarks against which all requests are evaluated, ensuring alignment with overarching business goals.
+My Philosophy: The buzz word in product development is “value”. What stakeholders want is not a wish list of features. Everything must “drive value”. Whatever the product goals are (more users, efficiency, revenue), we prioritize based on these things. Think of your own business initiatives. To build anything costs money. You want your investment (costs of dev team) to be applied to features and functionality that will give you the biggest bang for the buck - and not $200k spent on a team building unimportant things that don’t move the needle. KPIs are success metrics on any product or project. Stakeholders’ requests should map to these. This is also one way to weed out bad requests.
 
 ---
 
-## **Why Partner with Me**
+## WHY PARTNER WITH ME
 
 *"I had the opportunity to work with Ann while consulting and training. She provided excellent 'outside-in' perspective on Product Management, Agile, and Scrum disciplines. She balances theoretical Agile and Scrum practices with practical application for her company. Ann consistently offered insights and validation based on her outstanding experience and background. She embraced the Market-Driven Product Management concepts while bridging them extremely well to applying them. A top-notch individual!"*  
 — **John Milburn, CEO - Practical Growth Strategies; Pragmatic Marketing Trainer**
 
 ---
 
-## **Education**
+## EDUCATION
 
 **Bachelor of Arts (BA)**  
 **Rockhurst University, Kansas City, MO**  
@@ -43,7 +43,7 @@ In today's fast-paced product development environment, **value** is the key driv
 
 ---
 
-## **Professional Certifications**
+## PROFESSIONAL CERTIFICATIONS
 
 - Certified Product Manager (Agile)  
 - Certified Scrum Master (CSM)  
@@ -54,9 +54,9 @@ In today's fast-paced product development environment, **value** is the key driv
 
 ---
 
-## **Key Skills & Tools**
+## KEY SKILLS & TOOLS
 
-### **Leadership & Strategy**
+### LEADERSHIP & STRATEGY
 - Proven Leadership  
 - Product Development  
 - Marketing Strategy  
@@ -75,7 +75,7 @@ In today's fast-paced product development environment, **value** is the key driv
 - Presenting Complex Technology Concepts  
 - Entrepreneurial Spirit
 
-### **Technical Skills**
+### TECHNICAL SKILLS
 - Technical Writing & Application Development  
 - API & Cloud Computing  
 - Artificial Intelligence (AI) & Cyber Security  
@@ -87,7 +87,7 @@ In today's fast-paced product development environment, **value** is the key driv
 - SDLC, Figma & Fintech  
 - HTML, CSS & JavaScript
 
-### **Additional Expertise**
+### ADDITIONAL EXPERTISE
 - FedRamp & HITRUST Certification (Cybersecurity)  
 - Security Review Assessments (SRAs) & Vendor Security Evaluations  
 - OSI Model & Emerging Technologies (AI/ML, Robotics, IoT)  
@@ -99,7 +99,7 @@ In today's fast-paced product development environment, **value** is the key driv
 
 ---
 
-## **Professional Portfolio**
+## PROFESSIONAL PORTFOLIO
 
 **Video Walkthroughs**:  
 - [**Writing Samples**](https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4)  
@@ -111,18 +111,15 @@ In today's fast-paced product development environment, **value** is the key driv
 
 ---
 
-## **Key Projects**
+## KEY PROJECTS
 
-### **Google Cloud – Legacy to Cloud-Based Conversion**
-- Led the transition from legacy systems to cloud-based solutions, streamlining processes and enhancing operational efficiency.
-
-### **Fiserv – Digital Gateway/Payment Processing**
-- Developed a digital gateway/payment processing solution supporting various client-hosted engagement channels, including online and mobile portals.
-
-### **Cybersecurity – HITRUST & FedRamp Certifications**
-- Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications, reinforcing organizational security.
-
-### **IT Startup – MVP Launch**
-- Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
+- **GOOGLE CLOUD – LEGACY TO CLOUD-BASED CONVERSION**
+Led the transition from legacy systems to cloud-based solutions, streamlining processes and enhancing operational efficiency.
+- **FISERV – DIGITAL GATEWAY/PAYMENT PROCESSING**
+Developed a digital gateway/payment processing solution supporting various client-hosted engagement channels, including online and mobile portals.
+- **CYBERSECURITY – HITRUST & FEDRAMP CERTIFICATIONS**
+Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications, reinforcing organizational security.
+- **IT STARTUP – MVP LAUNCH**
+Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
 
 ---
