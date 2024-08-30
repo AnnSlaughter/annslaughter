@@ -6,11 +6,16 @@
 **Phone:** 813-285-2434  
 **Email:** AnnSlaughter2009@Gmail.com  
 **Location:** Tampa, FL 33624  
-**US Citizen Seeking:** Remote roles from Tampa, FL  
-**TECHNICAL WRITER | AGILE PRODUCT OWNER**
 
-**Type:** Part-time | Full-time | Corp-to-Corp | W-2  
+**US Citizen Seeking:** Remote roles from Tampa, FL  
+
+**Security Clearance:**
+**Public Trust – Level 5 | Moderate Background Investigation (MBI)**
+
+**Job Title:** Technical Writer
+**Job Type:** Part-time | Full-time | Corp-to-Corp | W-2
 **Relocation:** No
+
 [**LinkedIn**](https://www.linkedin.com/in/annslaughter2009/) | [**GitHub**](https://github.com/AnnSlaughter2009)
 
 ---
