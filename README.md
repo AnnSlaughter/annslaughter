@@ -4,7 +4,7 @@
 **Email:** AnnSlaughter2009@Gmail.com  
 **Location:** Tampa, FL 33624  
 **US Citizen Seeking:** Remote roles from Tampa, FL  
-[**LinkedIn**](https://www.linkedin.com/in/annslaughter/) | [**GitHub**](https://github.com/AnnSlaughter2009)
+[**LinkedIn**](https://www.linkedin.com/in/annslaughter2009/) | [**GitHub**](https://github.com/AnnSlaughter2009)
 
 ---
 
