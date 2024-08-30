@@ -93,7 +93,7 @@ Pragmatic Marketing Trainer
 ---
 
 
-## Key Skills & Tools
+## SKILLS & TOOLS
 
 | **Leadership & Strategy**                                | **Technical Skills**                                     | **Additional Expertise**                                   |
 |----------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------|
