@@ -2,8 +2,9 @@
 
 ## GENERAL INFO
 
-**Phone:** 813-285-2434 | **Email:** annslaughter2009@Gmail.com  
-**Location:** Tampa, FL 33624  
+**Phone:** 813-285-2434 | **Email:** annslaughter2009@Gmail.com </br>
+[**LinkedIn**](https://www.linkedin.com/in/annslaughter2009/) | [**GitHub**](https://github.com/AnnSlaughter2009) </br>
+Tampa, FL 33624  
 
 **US Citizen Seeking:** Remote roles from Tampa, FL  
 
@@ -14,7 +15,6 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 **Job Type:** Part-time | Full-time | Corp-to-Corp | W-2</br>
 **Relocation:** No</br>
 
-[**LinkedIn**](https://www.linkedin.com/in/annslaughter2009/) | [**GitHub**](https://github.com/AnnSlaughter2009)
 
 ---
 
