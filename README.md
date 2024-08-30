@@ -81,10 +81,12 @@ Pragmatic Marketing Trainer
 
 ---
 
-## EDUCATION
+## EDUCATION & KNOWLEDGE
 
 **Bachelor of Arts (BA)**  
 **Rockhurst University, Kansas City, MO**  
+
+**Infinite Learner**
 - Proficient in modern technology stacks (cloud, big data, micro-services, APIs), SaaS, and PaaS.  
 - Active follower of emerging and disruptive technologies: Artificial Intelligence (AI), Machine Learning (ML), Robotics, and the Internet of Things (IoT).
 
