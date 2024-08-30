@@ -30,6 +30,30 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
 ---
 
+## PROJECTS
+
+- **GOOGLE CLOUD – LEGACY TO CLOUD-BASED CONVERSION**
+: Led the transition from legacy systems to cloud-based solutions, streamlining processes and enhancing operational efficiency.
+- **FISERV – DIGITAL GATEWAY/PAYMENT PROCESSING**
+: Developed a digital gateway/payment processing solution supporting various client-hosted engagement channels, including online and mobile portals.
+- **CYBERSECURITY – HITRUST & FEDRAMP CERTIFICATIONS**
+: Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications, reinforcing organizational security.
+- **IT STARTUP – MVP LAUNCH**
+: Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
+
+---
+
+## CERTIFICATIONS
+
+- Certified Product Manager (Agile)  
+- Certified Scrum Master (CSM)  
+- Web Designer: UI/UX, SEO  
+- IDEO Design Thinking  
+- Pragmatic Marketing Training – John Milburn, former Pragmatic trainer  
+- Pragmatic Marketing Framework/Pragmatic Institute: Webinars and Podcasts
+
+---
+
 ## SUMMARY
 
 I am a results-driven professional with a deep understanding of leveraging data to drive business decisions and optimize product lifecycle activities. My expertise spans setting product strategy, prioritizing customer needs, and effectively communicating the product vision. I excel in translating strategic goals into actionable roadmaps, fostering cross-functional collaboration to ensure alignment and success across all teams.
@@ -58,16 +82,6 @@ I am a results-driven professional with a deep understanding of leveraging data 
 
 ---
 
-## PROFESSIONAL CERTIFICATIONS
-
-- Certified Product Manager (Agile)  
-- Certified Scrum Master (CSM)  
-- Web Designer: UI/UX, SEO  
-- IDEO Design Thinking  
-- Pragmatic Marketing Training – John Milburn, former Pragmatic trainer  
-- Pragmatic Marketing Framework/Pragmatic Institute: Webinars and Podcasts
-
----
 
 ## Key Skills & Tools
 
@@ -90,19 +104,5 @@ I am a results-driven professional with a deep understanding of leveraging data 
 | Innovation & Influence                                   |                                                          |                                                            |
 | Presenting Complex Technology Concepts                   |                                                          |                                                            |
 | Entrepreneurial Spirit                                   |                                                          |                                                            |
-
----
-
-
-## KEY PROJECTS
-
-- **GOOGLE CLOUD – LEGACY TO CLOUD-BASED CONVERSION**
-: Led the transition from legacy systems to cloud-based solutions, streamlining processes and enhancing operational efficiency.
-- **FISERV – DIGITAL GATEWAY/PAYMENT PROCESSING**
-: Developed a digital gateway/payment processing solution supporting various client-hosted engagement channels, including online and mobile portals.
-- **CYBERSECURITY – HITRUST & FEDRAMP CERTIFICATIONS**
-: Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications, reinforcing organizational security.
-- **IT STARTUP – MVP LAUNCH**
-: Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
 
 ---
