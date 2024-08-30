@@ -1,4 +1,4 @@
-##![Ann Slaughter](https://i.ibb.co/jGtSN2P/Transparent-Cropped-Main.png)
+![Ann Slaughter](https://i.ibb.co/jGtSN2P/Transparent-Cropped-Main.png)
 
 ## GENERAL INFO
 
