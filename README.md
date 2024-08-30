@@ -1,6 +1,6 @@
 # ANN SLAUGHTER
 
-![Ann Slaughter](https://i.ibb.co/jHRCXBv/Untitled-1500-x-500-px.png)
+![Ann Slaughter](https://i.ibb.co/f01hSqy/Untitled-1500-x-500-px-1.png)
 
 **Phone:** 813-285-2434  
 **Email:** AnnSlaughter2009@Gmail.com  
