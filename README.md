@@ -54,16 +54,13 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
 ---
 
-## SUMMARY
-
-I am a results-driven professional with a deep understanding of leveraging data to drive business decisions and optimize product lifecycle activities. My expertise spans setting product strategy, prioritizing customer needs, and effectively communicating the product vision. I excel in translating strategic goals into actionable roadmaps, fostering cross-functional collaboration to ensure alignment and success across all teams.
-
----
-
 ## MY PHILOSOPHY
 
 **My Philosophy**: The buzz word in product development is “value”. What stakeholders want is not a wish list of features. Everything must “drive value”. Whatever the product goals are (more users, efficiency, revenue), we prioritize based on these things. Think of your own business initiatives. To build anything costs money. You want your investment (costs of dev team) to be applied to features and functionality that will give you the biggest bang for the buck - and not $200k spent on a team building unimportant things that don’t move the needle. KPIs are success metrics on any product or project. Stakeholders’ requests should map to these. This is also one way to weed out bad requests.
 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=XHOmBV4js_E&t=2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 ---
 
 ## WHY PARTNER WITH ME
@@ -104,5 +101,11 @@ I am a results-driven professional with a deep understanding of leveraging data 
 | Innovation & Influence                                   |                                                          |                                                            |
 | Presenting Complex Technology Concepts                   |                                                          |                                                            |
 | Entrepreneurial Spirit                                   |                                                          |                                                            |
+
+---
+
+## SUMMARY
+
+I am a results-driven professional with a deep understanding of leveraging data to drive business decisions and optimize product lifecycle activities. My expertise spans setting product strategy, prioritizing customer needs, and effectively communicating the product vision. I excel in translating strategic goals into actionable roadmaps, fostering cross-functional collaboration to ensure alignment and success across all teams.
 
 ---
