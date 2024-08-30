@@ -19,7 +19,7 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
 ---
 
-## PROFESSIONAL PORTFOLIO
+## PORTFOLIO
 
 - [**Video:**](https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4) Walk through of writing samples 
 - [**Video:**](https://youtu.be/YxXAlzNJZxU)  Customer Testimonials
