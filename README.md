@@ -56,16 +56,17 @@ KPIs are success metrics on any product or project. Stakeholders’ requests sho
 
 ## WHY PARTNER WITH ME
 
-"I had the opportunity to work with Ann while consulting and training. She provided excellent 'outside-in' perspective on Product Management, Agile, and Scrum disciplines. She balances theoretical Agile and Scrum practices with practical application for her company.
+"I had the opportunity to work with Ann while consulting and training. She provided excellent "outside-in" perspective on the Product Management, Product Owner, Agile and Scrum disciplines. She balances the theoretical/defined Agile and Scrum practices with practical application for her company.
 </br>
 
-Ann consistently offered insights and validation based on her outstanding experience and background. She embraced the Market-Driven Product Management concepts while bridging them extremely well to applying them. 
+I called on her often while teaching the class to provide insights and validation based on her outstanding experience and background - she embraced the Market Driven Product Management concepts, while bridging them extremely well to applying them.
 </br>
 
 A top-notch individual!" 
 
-— John Milburn CEO</br>
-Practical Growth Strategies; Pragmatic Marketing Trainer
+- John Milburn, CEO</br>
+Practical Growth Strategies;</br>
+Pragmatic Marketing Trainer
 
 ---
 
