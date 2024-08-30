@@ -41,14 +41,19 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
 ## PROJECTS
 
-- **GOOGLE CLOUD – LEGACY TO CLOUD-BASED CONVERSION**
-: Led the transition from legacy systems to cloud-based solutions, streamlining processes and enhancing operational efficiency.
-- **FISERV – DIGITAL GATEWAY/PAYMENT PROCESSING**
-: Developed a digital gateway/payment processing solution supporting various client-hosted engagement channels, including online and mobile portals.
+- **GOOGLE CLOUD**
+: legacy to cloud based conversion
+</br>
+- **FISERV**
+: digital gateway/payment processing that supported needs to clients to pay through a variety of bank-hosted engagement channels such as a client-branded online and mobile portal and voice-responsive phone; use of APIs; exposure to treasury management
+</br>
 - **CYBERSECURITY – HITRUST & FEDRAMP CERTIFICATIONS**
-: Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications, reinforcing organizational security.
-- **IT STARTUP – MVP LAUNCH**
-: Founded a software company, leading the team in launching a Minimum Viable Product (MVP) that demonstrated significant market potential.
+: Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications.
+</br>
+- **MVP LAUNCH**
+: IT Startup founder of software company; led team in launching a Minimum Viable Product (MVP)
+
+
 
 ---
 
