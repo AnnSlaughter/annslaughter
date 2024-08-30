@@ -12,8 +12,8 @@ Tampa, FL 33624
 **Security Clearance:**</br>
 Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
-**Job Title:** Technical Writer </br>
-**Job Type:** Part-time | Full-time | Corp-to-Corp | W-2</br>
+**Role:** Technical Writer </br>
+**Type:** Part-time | Full-time | Corp-to-Corp | W-2</br>
 **Relocation:** No</br>
 
 
