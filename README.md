@@ -9,7 +9,7 @@
 **US Citizen Seeking:** Remote roles from Tampa, FL  
 
 **Security Clearance:**
-**Public Trust – Level 5 | Moderate Background Investigation (MBI)**
+Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
 **Job Title:** Technical Writer
 **Job Type:** Part-time | Full-time | Corp-to-Corp | W-2
