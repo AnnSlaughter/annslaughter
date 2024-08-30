@@ -115,23 +115,26 @@ Pragmatic Marketing Trainer
 
 | **Leadership & Strategy**                                | **Technical Skills**                                     | **Additional Expertise**                                   |
 |----------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------|
-| Proven Leadership                                        | Technical Writing & Application Development              | FedRamp & HITRUST Certification (Cybersecurity)            |
-| Product Development                                      | API & Cloud Computing                                    | Security Review Assessments (SRAs) & Vendor Security Evaluations |
-| Marketing Strategy                                       | Artificial Intelligence (AI) & Cyber Security            | OSI Model & Emerging Technologies (AI/ML, Robotics, IoT)   |
-| Digital & Technology Strategy                            | Business Process Management & Collaboration              | Product Management, Scrum Master, UI/UX, IDEO Design Thinking |
-| Process Engineering                                      | Product Ownership & Agile Mindset                        | Writing & Managing Epics/User Stories in Agile Environments |
-| Human-Centered Design                                    | Scaled Agile – SAFe, DevOps, DevSecOps                   | User Acceptance Testing, QA Responsibilities & Jira/Confluence |
-| IDEO Design Thinking                                     | User Stories, 508 Compliance & CI/CD                     | API, Zapier, Make, Figma, ChatGPT, Adobe FrameMaker        |
-| B2B/B2C Product Management                               | Security Clearance - Public Trust Background             | Security Clearance & Federal Experience                    |
-| Financial Services & Healthcare Insurance               | SDLC, Figma & Fintech                                    |                                                            |
-| Product Roadmapping & Marketing Campaigns                | HTML, CSS & JavaScript                                   |                                                            |
-| Journey Mapping & User Experience                        |                                                          |                                                            |
-| Competitive Analysis & Research/Testing                  |                                                          |                                                            |
-| Cross-functional & Virtual Team Collaboration            |                                                          |                                                            |
-| Data Analytics & Data-Driven Decisions                   |                                                          |                                                            |
-| Innovation & Influence                                   |                                                          |                                                            |
-| Presenting Complex Technology Concepts                   |                                                          |                                                            |
-| Entrepreneurial Spirit                                   |                                                          |                                                            |
+| Proven Leadership                                        | Technical Writing, Application Development               | FedRamp and HITRUST Certification                           |
+| Product Development                                      | API, ChatGPT, Artificial Intelligence (AI), Cloud Computing | Contracted on a part-time basis to perform Security Review Assessments (SRAs) |
+| Marketing Strategy                                       | Cyber Security, Business Process Management, Collaboration | Vendor Security Evaluations                                |
+| Digital and Technology Strategy                          | Product Ownership, Product Management                    | Familiar with OSI model (Open Systems Intercommunication)   |
+| Process Engineering                                      | Design Thinking, Agile Mindset                           | Figma, Adobe FrameMaker, Confluence                        |
+| Human-Centered Design                                    | Scaled Agile – SAFe, DevOps, DevSecOps                   | Federal Experience, Security clearance, macOS              |
+| IDEO Design Thinking                                     | User Stories, 508 Compliance, CI/CD                      | Emerging technologies: AI/ML, Robotics, IoT                |
+| B2B/B2C Product Management                               | Security Clearance - Public Trust Background, SDLC, Figma | Technology stacks: cloud, big data, micro-services, APIs, SaaS, PaaS |
+| Financial Services, Healthcare Insurance                 | Fintech, HTML, CSS, JavaScript                           | Understanding of Product Management, Scrum Master, UI/UX, IDEO Design Thinking |
+| Product Roadmap, Marketing Campaigns                     |                                                          | Google Cloud, Agile, Product Owner                         |
+| Journey Mapping, User Experience, Member Experience      |                                                          | Writing, managing, and accepting epics & user stories in Agile environments |
+| Competitive Analysis, Research/Testing                   |                                                          | User Acceptance Testing, QA responsibilities, Jira, Confluence |
+| Cross-functional Teams, Virtual and off-shore teams      |                                                          | API, Zapier, Make                                          |
+| Geographically dispersed teams                           |                                                          | Create content for engineering, QA, UI design, customer support, and external developers |
+| Data Analytics, Data Driven Decisions                    |                                                          | Task-oriented user documentation, Systems architectures, API documentation, UX writing |
+| Innovation, Influence                                    |                                                          | Knowledge of: CI/CD, Kanban, Adobe Technical Communication Suite, Camtasia, LaTeX/Sphinx, GitHub |
+| Present Complex Technology Concepts                      |                                                          | Knowledge of: Microsoft Office products (Visio, Word, Excel, PowerPoint) |
+| Entrepreneurial Spirit, Real estate                      |                                                          | Tools: AHA Roadmap, Jira, Balsamiq, Tableau, CRMs, PowerPoint presentations |
+                                                           |                                                          | Tools: AHA Roadmap, Jira, Balsamiq, Tableau, Google Analytics, CRMs: HubSpot, Zoho, PowerPoint |
+
 
 ---
 
