@@ -64,7 +64,7 @@ Ann consistently offered insights and validation based on her outstanding experi
 
 A top-notch individual!" 
 
-— John Milburn </br>
+— John Milburn CEO</br>
 Practical Growth Strategies; Pragmatic Marketing Trainer
 
 ---
