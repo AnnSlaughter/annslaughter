@@ -4,14 +4,10 @@
 **Email:** AnnSlaughter2009@Gmail.com  
 **Location:** Tampa, FL 33624  
 **US Citizen Seeking:** Remote roles from Tampa, FL  
-[**LinkedIn**](https://www.linkedin.com/in/annslaughter2009/) | [**GitHub**](https://github.com/AnnSlaughter2009)
-
----
-
-## TECHNICAL WRITER | AGILE PRODUCT OWNER
-
+**TECHNICAL WRITER | AGILE PRODUCT OWNER**
 **Type:** Part-time | Full-time | Corp-to-Corp | W-2  
 **Relocation:** No
+[**LinkedIn**](https://www.linkedin.com/in/annslaughter2009/) | [**GitHub**](https://github.com/AnnSlaughter2009)
 
 ---
 
