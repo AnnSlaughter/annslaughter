@@ -1,5 +1,7 @@
 # ANN SLAUGHTER
 
+![Ann Slaughter](https://i.ibb.co/WPfmv1b/Transparent-Cropped-Main.png)
+
 **Phone:** 813-285-2434  
 **Email:** AnnSlaughter2009@Gmail.com  
 **Location:** Tampa, FL 33624  
