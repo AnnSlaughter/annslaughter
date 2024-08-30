@@ -1,5 +1,5 @@
 ![Ann Slaughter](https://i.ibb.co/jGtSN2P/Transparent-Cropped-Main.png)
-
+<hr>
 ## GENERAL INFO
 
 **Phone:** 813-285-2434 | **Email:** annslaughter2009@Gmail.com </br>
