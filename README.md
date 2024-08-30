@@ -62,7 +62,7 @@ KPIs are success metrics on any product or project. Stakeholders’ requests sho
 I called on her often while teaching the class to provide insights and validation based on her outstanding experience and background - she embraced the Market Driven Product Management concepts, while bridging them extremely well to applying them.
 </br>
 
-A top-notch individual!" 
+A top-notch individual! ..." 
 
 — John Milburn, CEO</br>
 Practical Growth Strategies</br>
