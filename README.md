@@ -64,7 +64,7 @@ I called on her often while teaching the class to provide insights and validatio
 
 A top-notch individual!" 
 
-- John Milburn, CEO</br>
+— John Milburn, CEO</br>
 Practical Growth Strategies;</br>
 Pragmatic Marketing Trainer
 
