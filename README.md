@@ -1,4 +1,7 @@
-![Ann Slaughter](https://i.ibb.co/jGtSN2P/Transparent-Cropped-Main.png)
+<p align="center">
+  <img src="https://i.ibb.co/jGtSN2P/Transparent-Cropped-Main.png" alt="Ann Slaughter">
+</p>
+
 <hr>
 
 ## GENERAL INFO
