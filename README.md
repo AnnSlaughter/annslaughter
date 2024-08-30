@@ -2,7 +2,7 @@
 
 ## GENERAL INFO
 
-**Phone:** 813-285-2434  **Email:** AnnSlaughter2009@Gmail.com  
+**Phone:** 813-285-2434 | **Email:** AnnSlaughter2009@Gmail.com  
 **Location:** Tampa, FL 33624  
 
 **US Citizen Seeking:** Remote roles from Tampa, FL  
