@@ -1,5 +1,3 @@
-# ANN SLAUGHTER
-
 ![Ann Slaughter](https://i.ibb.co/jGtSN2P/Transparent-Cropped-Main.png)
 
 **Phone:** 813-285-2434  
