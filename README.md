@@ -7,14 +7,14 @@
 [**LinkedIn**](https://www.linkedin.com/in/annslaughter2009/) | [**GitHub**](https://github.com/AnnSlaughter2009) </br>
 Tampa, FL 33624  
 
-**US Citizen Seeking:** Remote roles from Tampa, FL  
+**US Citizen Seeking:** Remote roles from Tampa, FL</br>
+**Relocation:** No</br>
 
 **Security Clearance:**</br>
 Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
 **Role:** Technical Writer </br>
 **Type:** Part-time | Full-time | Corp-to-Corp | W-2</br>
-**Relocation:** No</br>
 
 
 ---
