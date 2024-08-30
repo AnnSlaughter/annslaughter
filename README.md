@@ -43,13 +43,16 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
 - **GOOGLE CLOUD**
 : legacy to cloud based conversion
-</br>
+
+
 - **FISERV**
 : digital gateway/payment processing that supported needs to clients to pay through a variety of bank-hosted engagement channels such as a client-branded online and mobile portal and voice-responsive phone; use of APIs; exposure to treasury management
-</br>
+
+
 - **CYBERSECURITY – HITRUST & FEDRAMP CERTIFICATIONS**
 : Collaborated with the Chief Security Officer on cybersecurity initiatives to achieve HITRUST and FedRamp certifications.
-</br>
+
+
 - **MVP LAUNCH**
 : IT Startup founder of software company; led team in launching a Minimum Viable Product (MVP)
 
