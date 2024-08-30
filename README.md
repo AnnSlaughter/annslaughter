@@ -56,7 +56,7 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
 ## MY PHILOSOPHY
 
-**My Philosophy**: The buzz word in product development is “value”. What stakeholders want is not a wish list of features. Everything must “drive value”. Whatever the product goals are (more users, efficiency, revenue), we prioritize based on these things. Think of your own business initiatives. To build anything costs money. You want your investment (costs of dev team) to be applied to features and functionality that will give you the biggest bang for the buck - and not $200k spent on a team building unimportant things that don’t move the needle. KPIs are success metrics on any product or project. Stakeholders’ requests should map to these. This is also one way to weed out bad requests.
+[**My Philosophy:**](https://youtu.be/YxXAlzNJZxU) The buzz word in product development is “value”. What stakeholders want is not a wish list of features. Everything must “drive value”. Whatever the product goals are (more users, efficiency, revenue), we prioritize based on these things. Think of your own business initiatives. To build anything costs money. You want your investment (costs of dev team) to be applied to features and functionality that will give you the biggest bang for the buck - and not $200k spent on a team building unimportant things that don’t move the needle. KPIs are success metrics on any product or project. Stakeholders’ requests should map to these. This is also one way to weed out bad requests.
 
 ---
 
