@@ -11,9 +11,9 @@
 **Security Clearance:**
 Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
-**Job Title:** Technical Writer
-**Job Type:** Part-time | Full-time | Corp-to-Corp | W-2
-**Relocation:** No
+**Job Title:** Technical Writer </br>
+**Job Type:** Part-time | Full-time | Corp-to-Corp | W-2</br>
+**Relocation:** No</br>
 
 [**LinkedIn**](https://www.linkedin.com/in/annslaughter2009/) | [**GitHub**](https://github.com/AnnSlaughter2009)
 
