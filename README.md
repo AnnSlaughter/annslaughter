@@ -112,26 +112,147 @@ Rockhurst University, Kansas City, Missouri
 
 ## SKILLS & TOOLS
 
-| **Leadership & Strategy**                                | **Technical Skills**                                     | **Additional Expertise**                                   |
-|----------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------|
-| Proven Leadership                                        | Technical Writing, Application Development               | FedRamp and HITRUST Certification                           |
-| Product Development                                      | API, ChatGPT, Artificial Intelligence (AI), Cloud Computing | Security Review Assessments (SRAs), Vendor Security Evaluations |
-| Marketing Strategy                                       | Cyber Security, Business Process Management, Collaboration | Familiar with OSI model (Open Systems Intercommunication)   |
-| Digital and Technology Strategy                          | Product Ownership, Product Management                    | Figma, Adobe FrameMaker, Confluence                        |
-| Process Engineering                                      | Design Thinking, Agile Mindset                           | Federal Experience, Security clearance, macOS              |
-| Human-Centered Design                                    | Scaled Agile – SAFe, DevOps, DevSecOps                   | Emerging technologies: AI/ML, Robotics, IoT                |
-| IDEO Design Thinking                                     | User Stories, 508 Compliance, CI/CD                      | Technology stacks: cloud, big data, micro-services, APIs, SaaS, PaaS |
-| B2B/B2C Product Management                               | Security Clearance - Public Trust Background, SDLC, Figma | Understanding of Product Management, Scrum Master, UI/UX, IDEO Design Thinking |
-| Financial Services, Healthcare Insurance                 | Fintech, HTML, CSS, JavaScript                           | Google Cloud, Agile, Product Owner                         |
-| Product Roadmap, Marketing Campaigns                     | API, Zapier, Make                                        | Writing, managing, and accepting epics & user stories in Agile environments |
-| Journey Mapping, User Experience, Member Experience      | User Acceptance Testing, QA responsibilities, Jira, Confluence | Create content for engineering, QA, UI design, customer support, and external developers |
-| Competitive Analysis, Research/Testing                   | Knowledge of: CI/CD, Kanban, Adobe Technical Communication Suite, Camtasia, LaTeX/Sphinx, GitHub | Task-oriented user documentation, Systems architectures, API documentation, UX writing |
-| Cross-functional Teams, Virtual and off-shore teams      | Knowledge of: Microsoft Office products (Visio, Word, Excel, PowerPoint) | Tools: AHA Roadmap, Jira, Balsamiq, Tableau, CRMs, PowerPoint presentations |
-| Geographically dispersed teams                           |                                                          | Tools: Google Analytics, CRMs: HubSpot, Zoho, PowerPoint    |
-| Data Analytics, Data Driven Decisions                    |                                                          |                                                            |
-| Innovation, Influence                                    |                                                          |                                                            |
-| Present Complex Technology Concepts                      |                                                          |                                                            |
-| Entrepreneurial Spirit, Real estate                      |                                                          |                                                            |
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<table style="border: 1px solid black; border-collapse: collapse; width: 100%;">
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">100% Remote Roles</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Security Clearance</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Public Trust – Level 5</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Moderate Background<br>Investigation (MBI)</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Ability to obtain Secret<br>Clearance</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">CRMs, Salesforce, Go<br>High Level, Hubspot, Zoho</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Fintech | Financial Services</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Healthcare Industry</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">508 Compliance</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Federal Experience</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Government Experience</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Cybersecurity</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">FedRamp Certification</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">HITRUST Certification</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Technical Writing</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Markdown, HTML</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">CSS, Javascript</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Tableau, Data Analytics</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">YouTuber, Content Creator</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Entrepreneurial Spirit</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Anything Real estate</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Video creation, Edits</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">DaVinci Resolve, CapCut</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">MacOS</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">IT Agile Product Manager</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Innovation</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Influence</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">B2B/B2C Product Manager</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Customer Advisory Boards</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Epics, User Stories</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Google Analytics</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Google Trends</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Social Media</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Product Development</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Competitive Analysis</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Agile Mindset</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Research, Testing</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Digital and Technology Strategy</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Marketing Campaigns</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">KanBan</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Certified Scrum Master</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Waterfall</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Journey Mapping</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">User Experience</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Product Roadmap</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">JIRA and Confluence</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">UI/UX Design</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">UX Writer</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Design Thinking, Interviews</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Figma, Lucidchart, Balsamiq</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">digital gateway, payment processing</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Agile Product Owner</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Business Analytics</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Business Process</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Adobe FrameMaker, Snagit</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Adobe Technical Communication Suite</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Microsoft (Word, Excel)</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">API, Make, Zapier</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Zoom</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">GitHub</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">ChatGPT</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Artificial Intelligence (AI)</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Cloud Computing</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Camtasia</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Google Cloud</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">OSI model</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Systems architectures</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">User Acceptance Testing</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">QA responsibilities</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Cross-functional Teams</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Virtual and off-shore teams</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Geographically dispersed teams</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Scrum of Scrums</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Scaled Agile – SAFe</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">CI/CD, DevOps, DevSecOps</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Software Development Life Cycle (SDLC)</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Application Development Life Cycle</td>
+        <td style="border: 1px solid black; padding: 8px; text-align: left;">Systems Development Life Cycle</td>
+    </tr>
+</table>
+
+</body>
+</html>
 
 
 
