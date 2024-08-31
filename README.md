@@ -24,15 +24,15 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
 ## PORTFOLIO
 
-<div style="margin: 0; padding: 0;"><strong>Technical Writer</strong></div>
+<div style="margin: 0; padding: 0;"><strong>TECHNICAL WRITING</strong></div>
 <ul style="margin: 0; padding: 0 0 0 20px;">
-  <li><a href="https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4"><strong>Explainer Video:</strong></a> Writing Samples</li>
+  <li><a href="https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4"><strong>Explainer Video:</strong></a> About Writing Samples</li>
   <li>See repository for documents explained in this video.</li>
 </ul>
 
-<div style="margin: 0; padding: 0;"><strong>Certified Agile Product Manager</strong></div>
+<div style="margin: 0; padding: 0;"><strong>MVP LAUNCHED</strong></div>
 <ul style="margin: 0; padding: 0 0 0 20px;">
-  <li>MVP Launched</li>
+  
   <li><a href="https://youtu.be/O1zwmcTxSDM"><strong>Video:</strong></a> Product Road Map</li>
   <li><a href="https://youtu.be/jpEVIDQjqOU"><strong>Video:</strong></a> Training Teams</li>
   <li><a href="https://youtu.be/YxXAlzNJZxU"><strong>Video:</strong></a> Customer Testimonials</li>
