@@ -139,6 +139,21 @@ Pragmatic Marketing Trainer
 
 ## SUMMARY
 
-I am a results-driven professional with a deep understanding of leveraging data to drive business decisions and optimize product lifecycle activities. My expertise spans setting product strategy, prioritizing customer needs, and effectively communicating the product vision. I excel in translating strategic goals into actionable roadmaps, fostering cross-functional collaboration to ensure alignment and success across all teams.
+**The Perfect Team Player …**
+- knows that data wins arguments – PERIOD.
+- leverages data to make data-driven decisions.
+- drives all associated lifecycle activities
+- sets product strategy.
+- understands and prioritizes customer needs and wants.
+- understands WHY customers buy products.
+- knows what the competition is doing.
+- communicates the product vision.
+- ensures that the voice of the customer is captured.
+- translates strategic vision to an executable road map.
+- facilitates the cross-functional collaboration required to keep everyone aligned and on track. </br>
+
+
+I AM **ANN**</br>
+The Perfect Team Player
 
 ---
