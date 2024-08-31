@@ -91,8 +91,7 @@ Pragmatic Marketing Trainer
 - Agile Certified Product Manager
 - IDEO Design Thinking
 - Certified Scrum Master (CSM)  
-- **Web Designer:** HTML, CSS, Javascript, SEO  
-- IDEO Design Thinking  
+- **Web Designer:** HTML, CSS, Javascript, SEO   
 - Pragmatic Marketing Training – John Milburn, former Pragmatic trainer  
 - Pragmatic Marketing Framework/Pragmatic Institute: Webinars and Podcasts
 
