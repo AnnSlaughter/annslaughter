@@ -39,8 +39,6 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 - [**Video:**](https://youtu.be/KXp_apnY4mA?si=bZNg-WtgcnFn_p5-) Mobile App
 - See repository for product images.
 
-
-
 ---
 
 ## PROJECTS
@@ -111,12 +109,6 @@ Rockhurst University, Kansas City, Missouri
 
 
 ## SKILLS & TOOLS
-
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
 
 <table style="border: 1px solid black; border-collapse: collapse; width: 100%;">
     <tr>
@@ -250,11 +242,6 @@ Rockhurst University, Kansas City, Missouri
         <td style="border: 1px solid black; padding: 8px; text-align: left;">Systems Development Life Cycle</td>
     </tr>
 </table>
-
-</body>
-</html>
-
-
 
 ---
 
