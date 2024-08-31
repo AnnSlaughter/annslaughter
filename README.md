@@ -24,20 +24,22 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
 ## PORTFOLIO
 
-**Technical Writer**
-- [**Explainer Video:**](https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4) Writing Samples
-- See repository for documents explained in this video.
+<div style="margin: 0; padding: 0;"><strong>Technical Writer</strong></div>
+<ul style="margin: 0; padding: 0 0 0 20px;">
+  <li><a href="https://www.loom.com/share/6270b9c16c054180968e1deded9485ec?sid=df446086-48aa-4aa7-87f4-6bc6548f30f4"><strong>Explainer Video:</strong></a> Writing Samples</li>
+  <li>See repository for documents explained in this video.</li>
+</ul>
 
-</br>
-
-**Certified Agile Product Manager**
-- MVP Launched 
-- [**Video:**](https://youtu.be/O1zwmcTxSDM) Product Road Map
-- [**Video:**](https://youtu.be/jpEVIDQjqOU) Training Teams
-- [**Video:**](https://youtu.be/YxXAlzNJZxU) Customer Testimonials
-- [**Video:**](https://youtu.be/lv761YSpwMc) Metrics That Matter
-- [**Video:**](https://youtu.be/KXp_apnY4mA?si=bZNg-WtgcnFn_p5-) Mobile App
-- See repository for product images.
+<div style="margin: 0; padding: 0;"><strong>Certified Agile Product Manager</strong></div>
+<ul style="margin: 0; padding: 0 0 0 20px;">
+  <li>MVP Launched</li>
+  <li><a href="https://youtu.be/O1zwmcTxSDM"><strong>Video:</strong></a> Product Road Map</li>
+  <li><a href="https://youtu.be/jpEVIDQjqOU"><strong>Video:</strong></a> Training Teams</li>
+  <li><a href="https://youtu.be/YxXAlzNJZxU"><strong>Video:</strong></a> Customer Testimonials</li>
+  <li><a href="https://youtu.be/lv761YSpwMc"><strong>Video:</strong></a> Metrics That Matter</li>
+  <li><a href="https://youtu.be/KXp_apnY4mA?si=bZNg-WtgcnFn_p5-"><strong>Video:</strong></a> Mobile App</li>
+  <li>See repository for product images.</li>
+</ul>
 
 ---
 
@@ -101,9 +103,11 @@ Pragmatic Marketing Trainer
 **Bachelor of Arts (BA)**  
 Rockhurst University, Kansas City, Missouri
 
-**Infinite Learner**
-- Proficient in modern technology stacks (cloud, big data, micro-services, APIs), SaaS, and PaaS.  
-- Active follower of emerging and disruptive technologies: Artificial Intelligence (AI), Machine Learning (ML), Robotics, and the Internet of Things (IoT).
+<div style="margin: 0; padding: 0;"><strong>Infinite Learner</strong></div>
+<ul style="margin: 0; padding: 0 0 0 20px;">
+  <li>Proficient in modern technology stacks (cloud, big data, micro-services, APIs), SaaS, and PaaS.</li>
+  <li>Active follower of emerging and disruptive technologies: Artificial Intelligence (AI), Machine Learning (ML), Robotics, and the Internet of Things (IoT).</li>
+</ul>
 
 ---
 
@@ -247,18 +251,20 @@ Rockhurst University, Kansas City, Missouri
 
 ## SUMMARY
 
-**The Perfect Team Player …**
-- knows that data wins arguments – PERIOD.
-- leverages data to make data-driven decisions.
-- drives all associated lifecycle activities
-- sets product strategy.
-- understands and prioritizes customer needs and wants.
-- understands WHY customers buy products.
-- knows what the competition is doing.
-- communicates the product vision.
-- ensures that the voice of the customer is captured.
-- translates strategic vision to an executable road map.
-- facilitates the cross-functional collaboration required to keep everyone aligned and on track. </br>
+<div style="margin: 0; padding: 0;"><strong>The Perfect Team Player …</strong></div>
+<ul style="margin: 0; padding: 0 0 0 20px;">
+  <li>knows that data wins arguments –<strong>PERIOD</strong>.</li>
+  <li>leverages data to make data-driven decisions.</li>
+  <li>drives all associated lifecycle activities</li>
+  <li>sets product strategy.</li>
+  <li>understands and prioritizes customer needs and wants.</li>
+  <li>understands WHY customers buy products.</li>
+  <li>knows what the competition is doing.</li>
+  <li>communicates the product vision.</li>
+  <li>ensures that the voice of the customer is captured.</li>
+  <li>translates strategic vision to an executable road map.</li>
+  <li>facilitates the cross-functional collaboration required to keep everyone aligned and on track.</li>
+</ul>
 
 
 I AM **ANN**</br>
