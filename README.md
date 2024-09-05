@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/K72M3hy/ff3ef2-Logo-282a36-BG.jpg" alt="Ann Slaughter">
-</p>
+![](https://i.ibb.co/8sQx7Xz/Untitled-design.png)
 
 <hr>
 
