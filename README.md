@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/jGtSN2P/Transparent-Cropped-Main.png" alt="Ann Slaughter">
+  <img src="https://i.ibb.co/K72M3hy/ff3ef2-Logo-282a36-BG.jpg" alt="Ann Slaughter">
 </p>
 
 <hr>
