@@ -32,9 +32,7 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 <ul style="margin: 0; padding: 0 0 0 20px;">
   
   <li><a href="https://youtu.be/O1zwmcTxSDM"><strong>Video:</strong></a> Product Road Map</li>
-  <li><a href="https://youtu.be/jpEVIDQjqOU"><strong>Video:</strong></a> Training Teams</li>
   <li><a href="https://youtu.be/YxXAlzNJZxU"><strong>Video:</strong></a> Customer Testimonials</li>
-  <li><a href="https://youtu.be/lv761YSpwMc"><strong>Video:</strong></a> Metrics That Matter</li>
   <li><a href="https://youtu.be/KXp_apnY4mA?si=bZNg-WtgcnFn_p5-"><strong>Video:</strong></a> Mobile App</li>
   <li>See repository for product images.</li>
 </ul>
