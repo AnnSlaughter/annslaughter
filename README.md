@@ -59,7 +59,7 @@ Public Trust – Level 5 | Moderate Background Investigation (MBI)
 
 ## MY PHILOSOPHY
 
-**My Philosophy:** <br>
+**My Philosophy** <br>
 The buzz word in product development is “value”. <br>
 What stakeholders want is not a wish list of features. <br>
 Everything must “drive value”. <br>
